@@ -40,6 +40,7 @@ public class BrowserLaunch {
 		driver.manage().window().maximize();
 
 	    System.out.println("kavi");
+	    System.out.println("naveen");
 
 		WebElement mon = driver.findElement(By.xpath("//select[@id='fruits']"));
 
